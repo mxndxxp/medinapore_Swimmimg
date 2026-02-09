@@ -116,7 +116,7 @@ const SwimmingHeader = () => {
           <div className="col-span-1 md:col-span-5 relative flex items-center justify-center md:-translate-x-20 z-20">
             
             {/* Orange Ring */}
-            <div className="absolute w-72 h-72 md:w-130 md:h-130 border-[20px] md:border-100 border-orange-600 rounded-full opacity-90 z-10 md:ml-25" />
+            <div className="absolute w-72 h-72 md:w-130 md:h-130 border-20 md:border-100 border-orange-600 rounded-full opacity-90 z-10 md:ml-25" />
 
             {/* Swimmer Image */}
             <img

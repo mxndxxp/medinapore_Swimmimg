@@ -9,10 +9,11 @@ const GymPage = () => {
   return (
     <>
       <GymHeader />
+      <RequiredDocs />
       <Activities />
       <GymCatagories/>
       <GymTraining />
-      <RequiredDocs />
+    
       <GymGallery />
     </>
   );

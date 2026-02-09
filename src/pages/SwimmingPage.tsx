@@ -7,9 +7,10 @@ const SwimmingPage = () => {
   return (
     <>
       <SwimmingHeader />
+      <AdmissionDocuments />
       <ActivitiesAndPools />
       <TrainingSchedules />
-      <AdmissionDocuments />
+      
     </>
   );
 };
