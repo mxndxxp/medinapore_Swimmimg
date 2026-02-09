@@ -9,8 +9,8 @@ const GymPage = () => {
   return (
     <>
       <GymHeader />
-      <RequiredDocs />
       <Activities />
+      <RequiredDocs />
       <GymCatagories/>
       <GymTraining />
     
